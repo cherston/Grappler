@@ -20,10 +20,10 @@ https://www.mathworks.com/matlabcentral/fileexchange/47417-simscape-multibody-co
 
 4. Run OneElementGrapplerModel (nonparametrized). Model shows a single element bistable pincher successfully grappling to a spherical surface. 
 
-5. Consult ThreeElementGrapplerModel (partially parametrized). Set initial parameters by first running VariableInitGrapplerCubeTarget. Then run Simulink model. Note that expected compiling time is 15-20 minutes due to complexity of contact force model required. A
+5. Consult ThreeElementGrapplerModel (partially parametrized). Set initial parameters by first running VariableInitGrapplerCubeTarget. Then run Simulink model. Note that expected compiling time is 15-20 minutes due to complexity of contact force model required.
 
 Note: as far as I can tell, The Simscape Contact Forces Library requires that a unique contact force be defined for every pair of planar surfaces that will come into contact, and this model has 8 surfaces on grappler and 4 surfaces on the cubic target object.  
 
-6. Challenge: In my AIAA paper I have shown a successful grapple of a 3-element Grappler to a spherical target object. Can you choose settings in this model that make grappler stick to a cubic object?  
+6. Challenge: In my AIAA paper I have shown a successful grapple of a 1-element Grappler and a 3-element Grappler to a spherical target object. Can you choose settings in this model that make grappler stick to a cubic object? Included are settings for a nearly successful grapple. 
 
 7. Contact me directly if any issues arise 
