@@ -26,4 +26,4 @@ Note: as far as I can tell, The Simscape Contact Forces Library requires that a 
 
 6. Challenge: In my AIAA paper I have shown a successful grapple of a 1-element Grappler and a 3-element Grappler to a spherical target object. Can you choose settings in this model that make grappler stick to a cubic object? Included are settings for a nearly successful grapple. 
 
-7. Contact me directly if any issues arise 
+7. Contact me directly if any issues arise. Please cite if you use 
