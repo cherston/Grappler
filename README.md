@@ -1,7 +1,7 @@
 
 
 ## Overview
-This library shows a Matlab/Simulink/Simscape simulation for a concept called Grappler in which an array of bistable elements can used to land infrastructure on low gravity bodies like asteroids and comets. It is part of my PhD thesis work at the MIT Media Lab. A video of two mechanical prototypes tested in an airplane flying parabolic arcs is available at http://resenv.media.mit.edu/spacewebs. 
+This library shows a Matlab/Simulink/Simscape simulation for a concept called Grappler in which an array of bistable elements can be used to land infrastructure on low gravity bodies like asteroids and comets. It is part of my PhD thesis work at the MIT Media Lab. A video of two mechanical prototypes tested in an airplane flying parabolic arcs is available at http://resenv.media.mit.edu/spacewebs. 
 
 
 #### Required Libraries: 
