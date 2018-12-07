@@ -16,6 +16,4 @@ lowerBound = 165; %sets angle achieved by tensioning rod
 
 springLength = 0.05; %sets natural length of nonphysical spring forces in m
 
-
-
-
+sphereRadius = 1; %In case you use a sphere target object. 
